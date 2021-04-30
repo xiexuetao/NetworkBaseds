@@ -6,9 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#include "EAccountSDKXor.hpp"
-#include "EAccountSDKPramsUtils.hpp"
-#include "EAccountSDKCommLib.hpp"
 
 NS_ASSUME_NONNULL_BEGIN
 
