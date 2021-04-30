@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NetworkBaseds"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "NetworkBaseds"
   spec.description  = <<-DESC
                     组件库测试
