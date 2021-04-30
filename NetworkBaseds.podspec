@@ -3,8 +3,8 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NetworkBaseds"
-  spec.version      = "0.0.3"
-  spec.summary      = "NetworkBaseds"
+  spec.version      = "0.0.4"
+  spec.summary      = "NetworkBaseds 奥术大师多"
   spec.description  = <<-DESC
                     组件库测试
                    DESC
@@ -14,10 +14,10 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "谢雪滔" => "xie_xuetao@163.com" }
   spec.authors            = { "谢雪滔" => "xie_xuetao@163.com" }
-  spec.social_media_url   = "https://twitter.com/谢雪滔"
+  #spec.social_media_url   = "https://xiexuetao.com"
 
   # spec.platform     = :ios
-  # spec.platform     = :ios, "5.0"
+  spec.platform     = :ios, "10.0"
 
   spec.source       = { :git => "https://github.com/xiexuetao/NetworkBaseds.git", :tag => "#{spec.version}" }
 
